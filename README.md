@@ -17,6 +17,7 @@ Data Source : https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-
 
 ## Visualization
 Here's the visualization of the project that I've made using Power BI.
+
 <img src='Images/Visualization.jpg'>
 
 ## Closing
