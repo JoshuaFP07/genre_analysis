@@ -16,7 +16,7 @@ Data Source : https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-
 - Power BI for data visualization
 
 ## Visualization
-<img src='Images/imdb-background.jpg'>
+<img src='Images/Visualization.jpg'>
 
 ## Closing
 I appreciate your interest in my project repository. I am open to any feedback, suggestions, or critiques you want to give me as it will increase my documentation skills for my newer projects and my analytical skills on data.
