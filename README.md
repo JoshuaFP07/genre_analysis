@@ -23,6 +23,8 @@ Here's the visualization of the project that I've made using Power BI.
 ## Closing
 I appreciate your interest in my project repository. I am open to any feedback, suggestions, or critiques you want to give me as it will increase my documentation skills for my newer projects and my analytical skills on data.
 
+I have made the summary in PDF slide here: https://drive.google.com/file/d/1H5hYz-bhXmvr4Vvd-D9pt2Uq3ttmIdxf/view?usp=drive_link
+
 Feel free to reach me out 
 
   - Email: findisel.joshua@gmail.com
